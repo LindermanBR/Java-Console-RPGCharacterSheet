@@ -2,26 +2,6 @@
 
 Welcome to the Java Console Character Manager! This console-based application allows you to create, manage, and customize characters for your imaginative world.
 
-## Getting Started
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/your-username/java-character-creator.git
-   cd java-character-creator
-   ```
-
-2. **Compile and Run:**
-
-   ```bash
-   javac App.java
-   java App
-   ```
-
-3. **Follow On-Screen Instructions:**
-   - Navigate through the main menu to create, read, update, or delete characters.
-   - Customize each character's stats, skills, powers, quirks, and items.
-
 ## Features
 
 - **Character Management:**
